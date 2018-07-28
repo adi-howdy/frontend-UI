@@ -1,0 +1,24 @@
+{
+  "name": "git-test-ui",
+  "version": "1.0.0",
+  "description": "first test for git and ui front end",
+  "main": "index.html",
+  "scripts": {
+    "start":"npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adi-howdy/frontend-UI.git"
+  },
+  "author": "adi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adi-howdy/frontend-UI/issues"
+  },
+  "homepage": "https://github.com/adi-howdy/frontend-UI#readme",
+  "devDependencies": {
+    "lite-server": "^2.4.0"
+  }
+}
